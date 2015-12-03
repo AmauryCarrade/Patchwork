@@ -26,4 +26,4 @@
 
 ## Polonais
 
- - TODO
+ - TODO really soon
