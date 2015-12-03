@@ -5,6 +5,7 @@
  - [Mickaël Launay](https://www.youtube.com/user/Micmaths) : diverses vidéos autour des mathématiques. Cours de maths, jeux de logique, chroniques ou encore manipulations autour des mathématiques.
  - [Experimentboy](https://www.youtube.com/user/experimentboyTV) : « Des expériences et des découvertes, des plus folles aux plus intrigantes avec une petite touche... experimentboy :D »
  - [e-penser](https://www.youtube.com/user/epenser1/) : « Il y a un paquet de choses qui sont parfaitement acquises et sur lesquelles on ne revient jamais. Pourtant, si on prend le temps d'y penser, les choses ne sont pas nécessairement aussi évidentes qu'elles le semblent. Sur e-penser, nous allons tenter de creuser un peu, qu'il s'agisse de science, d'histoire, de culture générale, voire parfois simplement de bon sens. »
+ - [Florence Porcel](https://www.youtube.com/channel/UC9HapjjoLqdDNwKEWQRaiyA) : « L'actualité des sciences de l'Univers et du spatial, c'est dans "La folle histoire de l'Univers". Les bourdes trouvées à la télévision, c'est dans "Les perles du PAF". Et d'autres choses à venir... Merci de votre visite - vous pouvez maintenant fermer Internet, ouvrir un livre, et n'oubliez pas de rester le nez en l'air à ne rien faire... »
 
 
 ## Anglais
