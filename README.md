@@ -23,3 +23,7 @@
  - [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) : « Your ultimate channel for all things chemistry. A video about each element on the periodic table. And we upload new videos every week about science news, interesting molecules and other stuff from the world of chemistry. »
  - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) : « The science video blog from atoms to astrophysics! »
  - [VSauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) : « Our World is Amazing. Subscribe for Mind-Blowing Facts & The Best of the Internet. »
+
+## Polonais
+
+ - TODO
