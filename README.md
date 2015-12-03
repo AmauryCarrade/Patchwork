@@ -24,3 +24,6 @@
  - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) : « The science video blog from atoms to astrophysics! »
  - [VSauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) : « Our World is Amazing. Subscribe for Mind-Blowing Facts & The Best of the Internet. »
 
+## Polonais
+
+ - TODO
